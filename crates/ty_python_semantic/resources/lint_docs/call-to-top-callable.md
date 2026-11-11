@@ -27,6 +27,6 @@ def f(x: object):
 
 ## Rule history
 
-- v0.0.101: Renamed from `call-top-callable`.
+- v0.0.102: Renamed from `call-top-callable`.
 
     `call-top-callable` remains as a compatibility alias for this rule.
