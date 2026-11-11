@@ -6239,7 +6239,7 @@ class Example:
 **Rule history**
 
 
-- v0.0.101: Renamed from [`dataclass-field-order`](#dataclass-field-order).
+- v0.0.102: Renamed from [`dataclass-field-order`](#dataclass-field-order).
 
     [`dataclass-field-order`](#dataclass-field-order) remains as a compatibility alias for this rule.
 
